@@ -1,2 +1,3 @@
 # Activeweb-Javalite-base
-This is a basic proyect with activeweb javalite, it only has the structure for the use of the activeweb framework.
+In this proyect we config the Autentication and Atorization with a activeweb proyect.
+We are using Tomcat as the server, you need a little configuration in tomcatuser.xml.
