@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>.ar.edu.udc</groupId>
-    <artifactId>proyect-activeweb</artifactId>
+    <artifactId>Activeweb-Autentication-Autorization-base</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
-    <name>proyect-activeweb-1.0</name>
+    <name>Activeweb-Autentication-Autorization-base1.0</name>
     
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
