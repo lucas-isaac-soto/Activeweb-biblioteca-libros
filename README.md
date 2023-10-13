@@ -1,4 +1,6 @@
-# Activeweb-Autentication-Autorization-base
+# Activeweb-biblioteca-libros
 
-In this proyect we config the Autentication and Atorization with a activeweb proyect.
-We are using Tomcat as the server, you need a little configuration in tomcatuser.xml.
+activeweb proyect, we have books and users that can see the list and others that can see more detail of each books.
+
+This proyect is used for study the activeweb autentication and autorization mechanism, we have books, and authors.
+Something extra is the using of bootstrap for the styles.
