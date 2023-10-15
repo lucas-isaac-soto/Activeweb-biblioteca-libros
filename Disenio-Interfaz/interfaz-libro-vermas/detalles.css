@@ -1,0 +1,13 @@
+body {
+  background-color: #283618;
+}
+.detalles {
+  background-color: #bc6c25;
+  border-radius: 10px;
+}
+.libro-imagen {
+  width: 250px;
+}
+.datos-centrados {
+  margin: auto;
+}

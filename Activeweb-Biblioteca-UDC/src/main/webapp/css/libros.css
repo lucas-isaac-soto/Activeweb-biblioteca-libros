@@ -1,0 +1,20 @@
+.boton-burger:hover {
+  background-color: #606c38;
+}
+.boton-burger {
+  border-color: #606c38;
+}
+.principal {
+  background-color: #BC6C25;
+}
+header {
+  background-color: #bc6c25;
+}
+#logo {
+  background-color: #606c38;
+  border-radius: 5px;
+  padding: 8px;
+}
+body{
+    background-color: #283618;
+}

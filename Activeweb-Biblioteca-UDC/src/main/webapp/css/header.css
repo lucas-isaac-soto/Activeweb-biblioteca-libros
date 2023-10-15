@@ -1,0 +1,22 @@
+.principal {
+  background-color: aquamarine;
+}
+
+body{
+    background-color: #283618;
+}
+.cabecera {
+  background-color: #bc6c25;
+}
+
+.cerrar-sesion {
+  background-color: rgb(236, 179, 179);
+}
+.cerrar-sesion:hover {
+  background-color: rgb(226, 100, 100);
+}
+#logo {
+  background-color: #606c38;
+  border-radius: 5px;
+  padding: 8px;
+}

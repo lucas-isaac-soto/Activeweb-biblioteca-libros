@@ -9,7 +9,7 @@
     
     <body>
         <div class="header">
-            <h1>Proyecto Plantilla ActiveWeb Javalite</h1>
+            <#include "header.ftl" >
         </div>
         
         <!--ACA TUVE QUE SACAR EL ?no_esc -->
